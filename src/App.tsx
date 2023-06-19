@@ -1,5 +1,6 @@
 import Hero from './components/Hero.tsx';
 import Navbar from './components/Navbar.tsx';
+import Pastries from './components/Pastries.tsx';
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <div>
         <Navbar />
         <Hero />
+        <Pastries />
       </div>
   );
 }
