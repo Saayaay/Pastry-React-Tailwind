@@ -42,7 +42,7 @@ const Search = () => {
             <form className='w-full'>
                 <div className='flex flex-col my-2'>
                     <label>GÂTEAUX</label>
-                    <select className='border rouonded-md p-2'>
+                    <select className='border rounded-md p-2'>
                         <option>Fraisier à la vie à la mort</option>
                         <option>Framboisier c'est de la bombe bébé</option>
                         <option>Cake à la pistache, moustache !</option>

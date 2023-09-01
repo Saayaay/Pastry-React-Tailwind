@@ -5,6 +5,7 @@ import {BiSearch} from 'react-icons/bi';
 import {AiOutlineClose} from 'react-icons/ai';
 import {HiOutlineMenuAlt4} from 'react-icons/hi';
 import {FaFacebook, FaTwitter, FaInstagram, FaPinterest, FaYoutube} from 'react-icons/fa'
+import { RiScales2Fill } from 'react-icons/ri';
 
 const Navbar = () => {
     const [nav, setNav] = useState(false);
